@@ -1,8 +1,11 @@
 # NET_SqlTransaction_BUG
 
 Repository to reproduce a bug in SqlTransaction class of .NET 
+
 Validated with versions 4.7.x and 4.8
+
 used SQL Server 2014
+
 Collation: Latin1_General_100_CS_AS
 
 In Program.cs
