@@ -17,10 +17,14 @@ Look on console messages
 im my case
 
 Test1
+
 The CREATE UNIQUE INDEX statement terminated because a duplicate key was found for the object name 'dbo.TEST_SCHEME' and the index name 'C216_K1'. The duplicate key value is (Test).
+
 The statement has been terminated.
 
 Test2
+
 Cannot insert duplicate key row in object 'dbo.TEST_SCHEME' with unique index 'C216_K1'. The duplicate key value is (Test).
 The statement has been terminated.
+
 Wrong behavior Exception :This SqlTransaction has completed; it is no longer usable.
